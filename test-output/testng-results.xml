@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5746" started-at="2018-02-08T04:32:01Z" finished-at="2018-02-08T04:32:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5746" started-at="2018-02-08T04:32:01Z" finished-at="2018-02-08T04:32:07Z">
+      <class name="hms.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:hms.NewTest@371370]" name="beforeTest" is-config="true" duration-ms="4784" started-at="2018-02-08T10:02:01Z" finished-at="2018-02-08T10:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifysendkeysFuction()[pri:0, instance:hms.NewTest@371370]" name="verifysendkeysFuction" duration-ms="121" started-at="2018-02-08T10:02:06Z" finished-at="2018-02-08T10:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysendkeysFuction -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:hms.NewTest@371370]" name="afterTest" is-config="true" duration-ms="804" started-at="2018-02-08T10:02:06Z" finished-at="2018-02-08T10:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- hms.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

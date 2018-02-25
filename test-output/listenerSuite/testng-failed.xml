@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [listenerSuite]">
+  <listeners>
+    <listener class-name="testNG.ListenerClass"/>
+  </listeners>
+  <test name="listenerTest(failed)">
+    <classes>
+      <class name="testNG.XLSheetDataProvider">
+        <methods>
+          <include name="testDropdown"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- testNG.XLSheetDataProvider -->
+    </classes>
+  </test> <!-- listenerTest(failed) -->
+</suite> <!-- Failed suite [listenerSuite] -->

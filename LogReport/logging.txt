@@ -1,0 +1,21 @@
+2017-12-12 22:01:31 INFO  XLSheetDataProvider:63 - Entered username
+2017-12-12 22:01:31 INFO  XLSheetDataProvider:66 - Entered pasword
+2017-12-12 22:01:31 INFO  XLSheetDataProvider:68 - Clicked on submit button
+2017-12-12 22:01:41 INFO  XLSheetDataProvider:75 - javascript alert was handaled and clicked on ok
+2017-12-12 22:01:42 INFO  XLSheetDataProvider:63 - Entered username
+2017-12-12 22:01:42 INFO  XLSheetDataProvider:66 - Entered pasword
+2017-12-12 22:01:43 INFO  XLSheetDataProvider:68 - Clicked on submit button
+2017-12-12 22:01:43 INFO  XLSheetDataProvider:71 - Clicked on logout
+2017-12-12 22:01:43 INFO  XLSheetDataProvider:63 - Entered username
+2017-12-12 22:01:44 INFO  XLSheetDataProvider:66 - Entered pasword
+2017-12-12 22:01:44 INFO  XLSheetDataProvider:68 - Clicked on submit button
+2017-12-12 22:01:54 INFO  XLSheetDataProvider:75 - javascript alert was handaled and clicked on ok
+2017-12-12 22:01:54 INFO  XLSheetDataProvider:63 - Entered username
+2017-12-12 22:01:54 INFO  XLSheetDataProvider:66 - Entered pasword
+2017-12-12 22:01:54 INFO  XLSheetDataProvider:68 - Clicked on submit button
+2017-12-12 22:01:55 INFO  XLSheetDataProvider:71 - Clicked on logout
+2017-12-12 22:01:55 INFO  XLSheetDataProvider:63 - Entered username
+2017-12-12 22:01:55 INFO  XLSheetDataProvider:66 - Entered pasword
+2017-12-12 22:01:55 INFO  XLSheetDataProvider:68 - Clicked on submit button
+2017-12-12 22:01:56 INFO  XLSheetDataProvider:71 - Clicked on logout
+2017-12-12 22:01:56 INFO  XLSheetDataProvider:99 - Window was closed

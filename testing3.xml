@@ -1,0 +1,16 @@
+<suite name="selenium4testing">
+<test name="report_firefox">
+<classes>
+<paramter name="browser" value="firefox"></paramter>
+<class name="testNG.Selenium4testing_Screenshot">
+</class>
+</classes>
+</test>
+<test name="report_chrome">
+<classes>
+<parameter name="browser" value="chrome"></parameter>
+<class name="testNG.Selenium4testing_Screenshot">
+</class>
+</classes>
+</test>
+</suite>

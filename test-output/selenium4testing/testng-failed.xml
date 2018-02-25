@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [selenium4testing]">
+  <test name="report_firefox(failed)">
+    <classes>
+      <class name="testNG.Selenium4testing_Screenshot">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="test5"/>
+          <include name="test3"/>
+          <include name="test4"/>
+          <include name="test1"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- testNG.Selenium4testing_Screenshot -->
+    </classes>
+  </test> <!-- report_firefox(failed) -->
+</suite> <!-- Failed suite [selenium4testing] -->

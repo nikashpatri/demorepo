@@ -1,0 +1,27 @@
+1. http://www.eclipse.org/downloads/ --Eclipse
+
+2. http://www.oracle.com/technetwork/java/javase/downloads/index.html --JDK
+
+3. http://docs.seleniumhq.org/download/  --Selenium-server-standalone jar file
+
+4. https://addons.mozilla.org/en-US/firefox/addon/firebug/ --Firebug
+
+5. https://addons.mozilla.org/en-US/firefox/addon/firepath/ --Firepath
+
+6. http://chromedriver.storage.googleapis.com/index.html --ChromeDriver 
+
+7. http://docs.seleniumhq.org/download/ --IE Driver
+
+8. https://launchpad.net/sikuli/+download   --Sikuli
+
+9. http://testng.org/doc/download.html  --testNG
+
+10. http://docs.seleniumhq.org/download  -- Selendroid
+
+11. http://www.c4learn.com/javaprogramming/  -- JAva Tutorial
+
+12. http://www.old.w3professors.com/Pages/Courses/Java/Java-Programs.html -- Programs
+
+13. http://www.tutorialspoint.com/java/java_loop_control.htm  -- Programs
+
+http://howtodoinjava.com/2014/12/03/how-to-execute-testng-tests-with-maven-build/

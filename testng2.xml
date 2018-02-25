@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="pom" parallel="tests">
+<test name="HMS_Result">
+<classes>
+<class name="page_object_model.HMS_Admissionasdvice_Testscript1">
+</class>
+</classes>
+</test>
+<test name="erp_Result">
+<classes>
+<class name="page_object_model.ERP_Login_Testscript1">
+</class>
+</classes>
+</test>
+<test name="spicejet_result">
+<classes>
+<class name="page_object_model.Spicejet_2waysearch_testscript1">
+</class>
+</classes>
+</test>
+<test name="gmail_result">
+<classes>
+<class name="page_object_model.Gmail_Testscript1">
+</class>
+</classes>
+</test>
+</suite>

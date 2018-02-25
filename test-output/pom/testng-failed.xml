@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [pom]" parallel="tests">
+  <test name="spicejet_result(failed)" parallel="tests">
+    <classes>
+      <class name="page_object_model.Spicejet_2waysearch_testscript1">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- page_object_model.Spicejet_2waysearch_testscript1 -->
+    </classes>
+  </test> <!-- spicejet_result(failed) -->
+  <test name="gmail_result(failed)" parallel="tests">
+    <classes>
+      <class name="page_object_model.Gmail_Testscript1">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- page_object_model.Gmail_Testscript1 -->
+    </classes>
+  </test> <!-- gmail_result(failed) -->
+</suite> <!-- Failed suite [pom] -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [hms]" parallel="tests">
+  <test name="patient registration_chrome(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testNG.TestNG_PatrientRegistration">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- testNG.TestNG_PatrientRegistration -->
+    </classes>
+  </test> <!-- patient registration_chrome(failed) -->
+  <test name="patient registration_intenetexplorer(failed)" parallel="tests">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="testNG.TestNG_PatrientRegistration">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- testNG.TestNG_PatrientRegistration -->
+    </classes>
+  </test> <!-- patient registration_intenetexplorer(failed) -->
+  <test name="patient registration_firefox(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testNG.TestNG_PatrientRegistration">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- testNG.TestNG_PatrientRegistration -->
+    </classes>
+  </test> <!-- patient registration_firefox(failed) -->
+</suite> <!-- Failed suite [hms] -->
